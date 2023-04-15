@@ -25,6 +25,9 @@ wd = webdriver.Chrome(options = options, service=ser)
 #wd.maximize_window()
 #time.sleep(5)
 
+teams = ['chennai-super-kings', 'delhi-capitals', 'gujarat-titans', 'kolkata-knight-riders', 'lucknow-super-giants', 'mumbai-indians', 'punjab-kings', 'rajasthan-royals', 'royal-challengers-bangalore', 'sunrisers-hyderabad']
+teamsacr = ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']
+'''
 def getpoints():
       website_points = 'https://fantasy.iplt20.com/'
       dri2 = webdriver.Chrome(options=options, service=ser)
@@ -45,23 +48,37 @@ def getpoints():
         if j==3:
             dri2.find_element(By.XPATH, '//*[@id="container"]/div/div/div[2]/div[1]/div[1]/div[6]/ul/li[4]/span').click()
             WebDriverWait(dri2, 2).until(EC.presence_of_all_elements_located((By.XPATH,'//div[@class = "df-plyrSel__name"]')))
-        pl_names = [i.text for i in dri2.find_elements(By.XPATH, '//div[@class = "df-plyrSel__name"]')]
+        pl_names = [i.text.upper() for i in dri2.find_elements(By.XPATH, '//div[@class = "df-plyrSel__name"]')]
         pl_points = [i.text for i in dri2.find_elements(By.XPATH, '//div[@class = "df-tbl__cell df-tbl__cell--pts"]')]
         pl_credits = [i.text for i in dri2.find_elements(By.XPATH, '//div[@class = "df-tbl__cell df-tbl__cell--amt"]')]
         pl_cred_info = list(zip(pl_names,pl_points,pl_credits))
-        with open('player_points_info.csv', 'w') as o2:
+        with open('../2023/player_points_info.csv', 'a') as o2:
             csv_o2 = csv.writer(o2)
-            csv_o2.writerow(['player_name','player_points', 'player_credits'])
+            if j==0: csv_o2.writerow(['player_name','player_points', 'player_credits'])
             for k in range(len(pl_names)):
                 csv_o2.writerow(pl_cred_info[k])
 
       #print()
 getpoints()
 '''
+def linkplayer():
+    for i in range(10):
+        with open(f"../2023/{teamsacr[i]}.csv", 'r') as csv_o:
+            rows = []
+            header = []
+            header = next(csv_o)
+            for row in csv_o:
+                #print(row.split(',')[0])
+                rows.append((row.split(',')[0], row.split(',')[1]))
+            with open(f"../2023/linkplayers.csv", 'a') as csv_link:
+                csv_out2=csv.writer(csv_link)
+                if i==0:
+                    csv_out2.writerow(['player_id', 'player_name'])
+                csv_out2.writerows(rows)
+linkplayer()
+'''
 WebDriverWait(wd, 5).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "#myHeader > div > div.site-navbar-wrap > div > div > nav > ul > li:nth-child(5) > a")))
 wd.find_element(By.CSS_SELECTOR, '#myHeader > div > div.site-navbar-wrap > div > div > nav > ul > li:nth-child(5) > a').click()
-teams = ['chennai-super-kings', 'delhi-capitals', 'gujarat-titans', 'kolkata-knight-riders', 'lucknow-super-giants', 'mumbai-indians', 'punjab-kings', 'rajasthan-royals', 'royal-challengers-bangalore', 'sunrisers-hyderabad']
-teamsacr = ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RR', 'RCB', 'SRH']
 
 time.sleep(5)
 
