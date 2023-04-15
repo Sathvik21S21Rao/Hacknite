@@ -1,4 +1,4 @@
-Player,Mat,Inns,NO,Runs,HS,Avg,BF,SR,100,50,4s,6s
+player_name,Mat,Inns,NO,Runs,HS,Avg,BF,SR,100,50,4s,6s
 Jos Buttler,17,17,2,863,116,57.53,579,149.05,4,4,83,45
 Sanju Samson,17,17,1,458,55,28.63,312,146.79,0,2,43,26
 Devdutt Padikkal,17,17,0,376,54,22.12,306,122.87,0,1,40,14
@@ -15,4 +15,4 @@ Obed McCoy,7,1,0,8,8,8.00,5,160.00,0,0,0,1
 Prasidh Krishna,17,3,2,6,4*,6.00,12,50.00,0,0,0,0
 Yuzvendra Chahal,17,2,1,5,5,5.00,8,62.50,0,0,0,0
 Navdeep Saini,2,1,0,2,2,2.00,2,100.00,0,0,0,0
-Nathan Coulter-Nile,1,1,1,1,1*,-,2,50.00,0,0,0,0
+Nathan Coulter-Nile,1,1,1,1,1*,0,2,50.00,0,0,0,0

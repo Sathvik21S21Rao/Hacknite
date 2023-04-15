@@ -1,4 +1,4 @@
-Player,Mat,Inns,NO,Runs,HS,Avg,BF,SR,100,50,4s,6s
+player_name,Mat,Inns,NO,Runs,HS,Avg,BF,SR,100,50,4s,6s
 Faf Du Plessis,16,16,1,468,96,31.20,367,127.52,0,3,49,13
 Virat Kohli,16,16,1,341,73,22.73,294,115.98,0,2,32,8
 Rajat Patidar,8,7,1,333,112*,55.50,218,152.75,1,2,27,18
@@ -12,5 +12,5 @@ Harshal Patel,15,8,3,43,11,8.60,39,110.25,0,0,4,2
 Wanindu Hasaranga,16,7,0,38,18,5.43,43,88.37,0,0,4,1
 Sherfane Rutherford,3,2,0,33,28,16.50,50,66.00,0,0,1,1
 Mohammed Siraj,15,5,3,30,14*,15.00,33,90.90,0,0,5,0
-Josh Hazlewood,12,5,5,18,7*,-,26,69.23,0,0,1,0
+Josh Hazlewood,12,5,5,18,7*,0,26,69.23,0,0,1,0
 David Willey,4,2,0,18,18,9.00,30,60.00,0,0,3,0

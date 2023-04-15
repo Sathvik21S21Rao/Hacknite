@@ -1,4 +1,4 @@
-Player,Mat,Inns,NO,Runs,HS,Avg,BF,SR,100,50,4s,6s
+player_name,Mat,Inns,NO,Runs,HS,Avg,BF,SR,100,50,4s,6s
 Shikhar Dhawan,14,14,2,460,88*,38.33,375,122.66,0,3,47,12
 Liam Livingstone,14,14,2,437,70,36.42,240,182.08,0,4,29,34
 Jonny Bairstow,11,11,0,253,66,23.00,175,144.57,0,2,34,9
@@ -15,4 +15,4 @@ Arshdeep Singh,14,6,3,21,10*,7.00,29,72.41,0,0,3,0
 Simran Singh,1,1,0,14,14,14.00,11,127.27,0,0,2,0
 Rajangad Bawa,2,2,0,11,11,5.50,14,78.57,0,0,1,0
 Vaibhav Arora,5,4,2,5,2*,2.50,13,38.46,0,0,0,0
-Prerak Mankad,1,1,1,4,4*,-,1,400.00,0,0,1,0
+Prerak Mankad,1,1,1,4,4*,0,1,400.00,0,0,1,0
