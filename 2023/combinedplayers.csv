@@ -1,0 +1,769 @@
+player_id,player_name,player_role,points,credits
+CSK100,"MS DHONI
+","WK Keeper - Batter
+"
+CSK101,"DEVON CONWAY
+","Batter
+"
+CSK102,"RUTURAJ GAIKWAD
+","Batter
+"
+CSK103,"SUBHRANSHU SENAPATI
+","Batter
+"
+CSK104,"AMBATI RAYUDU
+","Batter
+"
+CSK105,"AJINKYA RAHANE
+","Batter
+"
+CSK106,"SHAIK RASHEED
+","Batter
+"
+CSK107,"RAVINDRA JADEJA
+","All-Rounder
+"
+CSK108,"DWAINE PRETORIUS
+","All-Rounder
+"
+CSK109,"MITCHELL SANTNER
+","All-Rounder
+"
+CSK110,"K BHAGATH VARMA
+","All-Rounder
+"
+CSK111,"MOEEN ALI
+","All-Rounder
+"
+CSK112,"SHIVAM DUBE
+","All-Rounder
+"
+CSK113,"BEN STOKES
+","All-Rounder
+"
+CSK114,"NISHANT SINDHU
+","All-Rounder
+"
+CSK115,"AJAY MANDAL
+","All-Rounder
+"
+CSK116,"AKASH SINGH
+","Bowler
+"
+CSK117,"RAJVARDHAN HANGARGEKAR
+","Bowler
+"
+CSK118,"DEEPAK CHAHAR
+","Bowler
+"
+CSK119,"MAHEESH THEEKSHANA
+","Bowler
+"
+CSK120,"MUKESH CHOUDHARY
+","Bowler
+"
+CSK121,"PRASHANT SOLANKI
+","Bowler
+"
+CSK122,"SIMARJEET SINGH
+","Bowler
+"
+CSK123,"TUSHAR DESHPANDE
+","Bowler
+"
+CSK124,"MATHEESHA PATHIRANA
+","Bowler
+"
+CSK125,"SISANDA MAGALA
+","Bowler
+"
+CSK126,"KYLE JAMIESON
+","Bowler
+"
+DC100,"RISHABH PANT
+","WK Keeper - Batter
+"
+DC101,"DAVID WARNER
+","Batter
+"
+DC102,"PRITHVI SHAW
+","Batter
+"
+DC103,"ROVMAN POWELL
+","Batter
+"
+DC104,"RIPAL PATEL
+","Batter
+"
+DC105,"SARFARAZ KHAN
+","Batter
+"
+DC106,"YASH DHULL
+","Batter
+"
+DC107,"AMAN KHAN
+","Batter
+"
+DC108,"PHIL SALT
+","Batter
+"
+DC109,"MANISH PANDEY
+","Batter
+"
+DC110,"RILEE ROSSOUW
+","Batter
+"
+DC111,"ABISHEK POREL
+","Batter
+"
+DC112,"AXAR PATEL
+","All-Rounder
+"
+DC113,"LALIT YADAV
+","All-Rounder
+"
+DC114,"MITCHELL MARSH
+","All-Rounder
+"
+DC115,"KAMLESH NAGARKOTI
+","Bowler
+"
+DC116,"PRAVIN DUBEY
+","Bowler
+"
+DC117,"VICKY OSTWAL
+","Bowler
+"
+DC118,"ANRICH NORTJE
+","Bowler
+"
+DC119,"CHETAN SAKARIYA
+","Bowler
+"
+DC120,"KULDEEP YADAV
+","Bowler
+"
+DC121,"LUNGI NGIDI
+","Bowler
+"
+DC122,"MUSTAFIZUR RAHMAN
+","Bowler
+"
+DC123,"KHALEEL AHMED
+","Bowler
+"
+DC124,"ISHANT SHARMA
+","Bowler
+"
+DC125,"MUKESH KUMAR
+","Bowler
+"
+GT100,"DAVID MILLER
+","Batter
+"
+GT101,"SHUBMAN GILL
+","Batter
+"
+GT102,"MATTHEW WADE
+","Batter
+"
+GT103,"WRIDDHIMAN SAHA
+","WK Keeper - Batter
+"
+GT104,"KANE WILLIAMSON
+","Batter
+"
+GT105,"URVIL PATEL
+","Batter
+"
+GT106,"K.S BHARAT
+","Batter
+"
+GT107,"HARDIK PANDYA
+","All-Rounder
+"
+GT108,"ABHINAV MANOHAR
+","All-Rounder
+"
+GT109,"B. SAI SUDHARSAN
+","All-Rounder
+"
+GT110,"DARSHAN NALKANDE
+","All-Rounder
+"
+GT111,"VIJAY SHANKAR
+","All-Rounder
+"
+GT112,"ODEAN SMITH
+","All-Rounder
+"
+GT113,"DASUN SHANAKA
+","All-Rounder
+"
+GT114,"JAYANT YADAV
+","Bowler
+"
+GT115,"PRADEEP SANGWAN
+","Bowler
+"
+GT116,"RAHUL TEWATIA
+","Bowler
+"
+GT117,"SHIVAM MAVI
+","Bowler
+"
+GT118,"ALZARRI JOSEPH
+","Bowler
+"
+GT119,"MOHAMMAD SHAMI
+","Bowler
+"
+GT120,"NOOR AHMAD
+","Bowler
+"
+GT121,"SAI KISHORE
+","Bowler
+"
+GT122,"RASHID KHAN
+","Bowler
+"
+GT123,"YASH DAYAL
+","Bowler
+"
+GT124,"JOSHUA LITTLE
+","Bowler
+"
+GT125,"MOHIT SHARMA
+","Bowler
+"
+KKR100,"NITISH RANA
+","Batter
+"
+KKR101,"RINKU SINGH
+","Batter
+"
+KKR102,"RAHMANULLAH GURBAZ
+","Batter
+"
+KKR103,"SHREYAS IYER
+","Batter
+"
+KKR104,"NARAYAN JAGADEESAN
+","Batter
+"
+KKR105,"LITTON DAS
+","Batter
+"
+KKR106,"MANDEEP SINGH
+","Batter
+"
+KKR107,"JASON ROY
+","Batter
+"
+KKR108,"DAVID WIESE
+","All-Rounder
+"
+KKR109,"ANUKUL ROY
+","All-Rounder
+"
+KKR110,"ANDRE RUSSELL
+","All-Rounder
+"
+KKR111,"VENKATESH IYER
+","All-Rounder
+"
+KKR112,"SHAKIB AL HASAN
+","All-Rounder
+"
+KKR113,"KULWANT KHEJROLIYA
+","Bowler
+"
+KKR114,"SUYASH SHARMA
+","Bowler
+"
+KKR115,"LOCKIE FERGUSON
+","Bowler
+"
+KKR116,"UMESH YADAV
+","Bowler
+"
+KKR117,"HARSHIT RANA
+","Bowler
+"
+KKR118,"TIM SOUTHEE
+","Bowler
+"
+KKR119,"SHARDUL THAKUR
+","Bowler
+"
+KKR120,"SUNIL NARINE
+","Bowler
+"
+KKR121,"VAIBHAV ARORA
+","Bowler
+"
+KKR122,"VARUN CHAKARAVARTHY
+","Bowler
+"
+LSG100,"KL RAHUL
+","Batter
+"
+LSG101,"MANAN VOHRA
+","Batter
+"
+LSG102,"QUINTON DE KOCK
+","WK Keeper - Batter
+"
+LSG103,"NICHOLAS POORAN
+","Batter
+"
+LSG104,"AYUSH BADONI
+","All-Rounder
+"
+LSG105,"DEEPAK HOODA
+","All-Rounder
+"
+LSG106,"KRISHNAPPA GOWTHAM
+","All-Rounder
+"
+LSG107,"KARAN SHARMA
+","All-Rounder
+"
+LSG108,"KRUNAL PANDYA
+","All-Rounder
+"
+LSG109,"KYLE MAYERS
+","All-Rounder
+"
+LSG110,"MARCUS STOINIS
+","All-Rounder
+"
+LSG111,"ROMARIO SHEPHERD
+","All-Rounder
+"
+LSG112,"DANIEL SAMS
+","All-Rounder
+"
+LSG113,"PRERAK MANKAD
+","All-Rounder
+"
+LSG114,"SWAPNIL SINGH
+","All-Rounder
+"
+LSG115,"YUDHVIR SINGH
+","All-Rounder
+"
+LSG116,"AVESH KHAN
+","Bowler
+"
+LSG117,"MARK WOOD
+","Bowler
+"
+LSG118,"MAYANK YADAV
+","Bowler
+"
+LSG119,"MOHSIN KHAN
+","Bowler
+"
+LSG120,"RAVI BISHNOI
+","Bowler
+"
+LSG121,"JAYDEV UNADKAT
+","Bowler
+"
+LSG122,"YASH THAKUR
+","Bowler
+"
+LSG123,"AMIT MISHRA
+","Bowler
+"
+LSG124,"NAVEEN UL HAQ
+","Bowler
+"
+MI100,"ROHIT SHARMA
+","Batter
+"
+MI101,"DEWALD BREVIS
+","Batter
+"
+MI102,"SURYAKUMAR YADAV
+","Batter
+"
+MI103,"ISHAN KISHAN
+","WK Keeper - Batter
+"
+MI104,"N. TILAK VARMA
+","Batter
+"
+MI105,"RAMANDEEP SINGH
+","Batter
+"
+MI106,"TIM DAVID
+","Batter
+"
+MI107,"TRISTAN STUBBS
+","Batter
+"
+MI108,"VISHNU VINOD
+","Batter
+"
+MI109,"ARJUN TENDULKAR
+","All-Rounder
+"
+MI110,"JOFRA ARCHER
+","All-Rounder
+"
+MI111,"MOHD. ARSHAD KHAN
+","All-Rounder
+"
+MI112,"CAMERON GREEN
+","All-Rounder
+"
+MI113,"SHAMS MULANI
+","All-Rounder
+"
+MI114,"NEHAL WADHERA
+","All-Rounder
+"
+MI115,"DUAN JANSEN
+","All-Rounder
+"
+MI116,"HRITHIK SHOKEEN
+","Bowler
+"
+MI117,"JASPRIT BUMRAH
+","Bowler
+"
+MI118,"RILEY MEREDITH
+","Bowler
+"
+MI119,"JHYE RICHARDSON
+","Bowler
+"
+MI120,"KUMAR KARTIKEYA SINGH
+","Bowler
+"
+MI121,"PIYUSH CHAWLA
+","Bowler
+"
+MI122,"SANDEEP WARRIER
+","Bowler
+"
+MI123,"AKASH MADHWAL
+","Bowler
+"
+MI124,"JASON BEHRENDORFF
+","Bowler
+"
+MI125,"RAGHAV GOYAL
+","Bowler
+"
+PBKS100,"SHIKHAR DHAWAN
+","Batter
+"
+PBKS101,"BHANUKA RAJAPAKSA
+","Batter
+"
+PBKS102,"JITESH SHARMA
+","WK Keeper - Batter
+"
+PBKS103,"JONNY BAIRSTOW
+","Batter
+"
+PBKS104,"PRABHSIMRAN SINGH
+","Batter
+"
+PBKS105,"LIAM LIVINGSTONE
+","Batter
+"
+PBKS106,"SHAHRUKH KHAN
+","Batter
+"
+PBKS107,"MATTHEW WILLIAM SHORT
+","Batter
+"
+PBKS108,"HARPREET BHATIA
+","Batter
+"
+PBKS109,"ATHARVA TAIDE
+","All-Rounder
+"
+PBKS110,"RAJ ANGAD BAWA
+","All-Rounder
+"
+PBKS111,"RISHI DHAWAN
+","All-Rounder
+"
+PBKS112,"SAM CURRAN
+","All-Rounder
+"
+PBKS113,"SIKANDAR RAZA
+","All-Rounder
+"
+PBKS114,"MOHIT RATHEE
+","All-Rounder
+"
+PBKS115,"SHIVAM SINGH
+","All-Rounder
+"
+PBKS116,"HARPREET BRAR
+","Bowler
+"
+PBKS117,"ARSHDEEP SINGH
+","Bowler
+"
+PBKS118,"BALTEJ DHANDA
+","Bowler
+"
+PBKS119,"KAGISO RABADA
+","Bowler
+"
+PBKS120,"NATHAN ELLIS
+","Bowler
+"
+PBKS121,"RAHUL CHAHAR
+","Bowler
+"
+PBKS122,"GURNOOR SINGH BRAR
+","Bowler
+"
+PBKS123,"VIDWATH KAVERAPPA
+","Bowler
+"
+RR100,"SANJU SAMSON
+","WK Keeper - Batter
+"
+RR101,"DEVDUTT PADIKKAL
+","Batter
+"
+RR102,"JOS BUTTLER
+","Batter
+"
+RR103,"SHIMRON HETMYER
+","Batter
+"
+RR104,"YASHASVI JAISWAL
+","Batter
+"
+RR105,"DHRUV JUREL
+","Batter
+"
+RR106,"RIYAN PARAG
+","Batter
+"
+RR107,"KUNAL RATHORE
+","Batter
+"
+RR108,"DONOVAN FERREIRA
+","Batter
+"
+RR109,"JOE ROOT 
+","Batter
+"
+RR110,"RAVICHANDRAN ASHWIN
+","All-Rounder
+"
+RR111,"JASON HOLDER
+","All-Rounder
+"
+RR112,"AKASH VASHISHT
+","All-Rounder
+"
+RR113,"ABDUL P A
+","All-Rounder
+"
+RR114,"KC CARIAPPA
+","Bowler
+"
+RR115,"KULDEEP SEN
+","Bowler
+"
+RR116,"KULDIP YADAV
+","Bowler
+"
+RR117,"NAVDEEP SAINI
+","Bowler
+"
+RR118,"OBED MCCOY
+","Bowler
+"
+RR119,"KM ASIF
+","Bowler
+"
+RR120,"PRASIDH KRISHNA
+","Bowler
+"
+RR121,"SANDEEP SHARMA
+","Bowler
+"
+RR122,"TRENT BOULT
+","Bowler
+"
+RR123,"MURUGAN ASHWIN
+","Bowler
+"
+RR124,"YUZVENDRA CHAHAL
+","Bowler
+"
+RR125,"ADAM ZAMPA
+","Bowler
+"
+RCB100,"FAF DU PLESSIS
+","Batter
+"
+RCB101,"FINN ALLEN
+","Batter
+"
+RCB102,"RAJAT PATIDAR
+","Batter
+"
+RCB103,"VIRAT KOHLI
+","Batter
+"
+RCB104,"ANUJ RAWAT
+","Batter
+"
+RCB105,"DINESH KARTHIK
+","WK Keeper - Batter
+"
+RCB106,"SUYASH S PRABHUDESSAI
+","Batter
+"
+RCB107,"WILL JACKS
+","Batter
+"
+RCB108,"DAVID WILLEY
+","All-Rounder
+"
+RCB109,"GLENN MAXWELL
+","All-Rounder
+"
+RCB110,"MAHIPAL LOMROR
+","All-Rounder
+"
+RCB111,"WANINDU HASARANGA
+","All-Rounder
+"
+RCB112,"KARN SHARMA
+","All-Rounder
+"
+RCB113,"MICHAEL BRACEWELL
+","All-Rounder
+"
+RCB114,"SONU YADAV
+","All-Rounder
+"
+RCB115,"MANOJ BHANDAGE
+","All-Rounder
+"
+RCB116,"HARSHAL PATEL
+","Bowler
+"
+RCB117,"SHAHBAZ AHAMAD
+","Bowler
+"
+RCB118,"AKASH DEEP
+","Bowler
+"
+RCB119,"JOSH HAZLEWOOD
+","Bowler
+"
+RCB120,"SIDDHARTH KAUL
+","Bowler
+"
+RCB121,"MOHAMMED SIRAJ
+","Bowler
+"
+RCB122,"REECE TOPLEY
+","Bowler
+"
+RCB123,"HIMANSHU SHARMA
+","Bowler
+"
+RCB124,"RAJAN KUMAR
+","Bowler
+"
+RCB125,"VYSHAK VIJAY KUMAR
+","Bowler
+"
+RCB126,"WAYNE PARNELL
+","Bowler
+"
+RCB127,"AVINASH SINGH
+","Bowler
+"
+SRH100,"ABDUL SAMAD
+","Batter
+"
+SRH101,"AIDEN MARKRAM
+","Batter
+"
+SRH102,"RAHUL TRIPATHI
+","Batter
+"
+SRH103,"GLENN PHILLIPS
+","Batter
+"
+SRH104,"HARRY BROOK
+","Batter
+"
+SRH105,"MAYANK AGARWAL
+","Batter
+"
+SRH106,"HEINRICH KLAASEN
+","Batter
+"
+SRH107,"ANMOLPREET SINGH
+","Batter
+"
+SRH108,"UPENDRA SINGH YADAV
+","Batter
+"
+SRH109,"NITISH KUMAR REDDY
+","Batter
+"
+SRH110,"ABHISHEK SHARMA
+","All-Rounder
+"
+SRH111,"MARCO JANSEN
+","All-Rounder
+"
+SRH112,"WASHINGTON SUNDAR
+","All-Rounder
+"
+SRH113,"VIVRANT SHARMA
+","All-Rounder
+"
+SRH114,"MAYANK DAGAR
+","All-Rounder
+"
+SRH115,"SAMARTH VYAS
+","All-Rounder
+"
+SRH116,"SANVIR SINGH
+","All-Rounder
+"
+SRH117,"BHUVNESHWAR KUMAR
+","Bowler
+"
+SRH118,"FAZALHAQ FAROOQI
+","Bowler
+"
+SRH119,"KARTIK TYAGI
+","Bowler
+"
+SRH120,"T NATARAJAN
+","Bowler
+"
+SRH121,"UMRAN MALIK
+","Bowler
+"
+SRH122,"AKEAL HOSEIN
+","Bowler
+"
+SRH123,"ADIL RASHID
+","Bowler
+"
+SRH124,"MAYANK MARKANDE
+","Bowler
+"
